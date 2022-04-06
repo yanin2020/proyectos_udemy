@@ -1,0 +1,9 @@
+body {
+    background-color: #eee;
+}
+
+.fondo {
+   height: 400px;
+   background: rgb(62, 196, 196) url('https://placekitten.com/200/139') no-repeat left top fixed;
+   background-size: cover;
+}

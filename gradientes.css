@@ -1,0 +1,7 @@
+body {
+    background-color: #eee;
+}
+
+.fondo {
+    background-image: linear-gradient(0deg, orange, rgb(64, 170, 219), rgb(236, 57, 221), rgb(143, 26, 143));
+}
